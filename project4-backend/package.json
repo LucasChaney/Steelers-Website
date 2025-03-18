@@ -1,7 +1,7 @@
 {
-  "name": "demo-project-3",
+  "name": "project-4-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Runs the backend for the steelers website. Deals with requests and communicating with the db",
   "main": "apps.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://comp.umsl.edu/gitlab/lactcz/demo-project-3.git"
+    "url": "https://github.com/LucasChaney/Steelers-Website.git"
   },
   "author": "Luke Chaney",
   "license": "ISC",
