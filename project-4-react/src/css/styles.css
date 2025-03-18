@@ -1,0 +1,109 @@
+
+/* Global styles */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-container,
+.form {
+    border: 5px solid #aaaaaa;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.btn-primary {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.btn-primary:hover {
+    opacity: 0.8;
+}
+
+.btn-danger {
+    width: 100%;
+    padding: 10px 18px;
+    background-color: #9d0000;
+}
+
+.container {
+    padding: 16px;
+}
+
+/* Specific page styles */
+
+/* home_page.html */
+.carousel-inner img {
+    width: 100%;
+    margin: auto;
+    min-height: 200px;
+}
+
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none;
+    }
+}
+
+/* about_page.html */
+html, body, .well-about {
+    height: 90%;
+}
+
+.well-about {
+    background-color: white;
+    border-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100%;
+}
+
+/* account_page.html, register_page.html, login_page.html */
+.form {
+    border: 5px solid #aaaaaa;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.btn-submit {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.btn-submit:hover {
+    opacity: 0.8;
+}
+
+.resetbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #9d0000;
+}

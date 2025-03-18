@@ -1,0 +1,28 @@
+/* Countdown timer */
+.well {
+    background-color: white;
+    border-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100%;
+}
+
+/* Countdown text */
+#DraftDay {
+    font-size: xxx-large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Navbar (in case specific styles needed for AboutPage page) */
+.navbar {
+    background-color: #333;
+}
+
+.navbar-brand img {
+    height: 30px;
+    width: 30px;
+    margin-top: -5px;
+}
