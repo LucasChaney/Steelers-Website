@@ -1,0 +1,16 @@
+{"level":"error","message":"Test1 already has an account","timestamp":"5/2/2024, 4:13:16 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:01:20 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:01:21 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:01:24 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:20:20 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:21:01 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:21:38 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:25:10 PM"}
+{"level":"error","message":"Test2 already has an account","timestamp":"5/2/2024, 6:02:27 PM"}
+{"level":"error","message":"Test3 does not have an account, need to register.","timestamp":"5/2/2024, 6:38:56 PM"}
+{"level":"error","message":"Test does not have an account, need to register.","timestamp":"5/3/2024, 12:44:56 PM"}
+{"level":"error","message":"Test2 already has an account","timestamp":"5/4/2024, 2:40:19 PM"}
+{"level":"error","message":"luke does not have an account, need to register.","timestamp":"3/18/2025, 3:07:43 PM"}
+{"level":"error","message":"luke does not have an account, need to register.","timestamp":"3/18/2025, 3:07:54 PM"}
+{"level":"error","message":"luke does not have an account, need to register.","timestamp":"3/18/2025, 3:07:59 PM"}
+{"level":"error","message":"luke3 does not have an account, need to register.","timestamp":"3/18/2025, 3:08:24 PM"}

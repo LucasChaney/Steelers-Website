@@ -1,0 +1,313 @@
+{"level":"info","message":"A new request received at Thu May 02 2024 15:24:52 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 3:24:52 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 3:24:52 PM"}
+{"level":"info","message":"Record created with id 22","timestamp":"5/2/2024, 3:24:53 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 15:29:01 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 3:29:01 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:02:17 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:02:17 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:03:22 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:03:22 PM"}
+{"level":"info","message":"existingUserAccount Test1","timestamp":"5/2/2024, 4:03:22 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/2/2024, 4:03:22 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:03:32 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:03:32 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:07:00 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:07:00 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:08:21 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:08:21 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:09:30 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:09:30 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:11:15 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:11:15 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:12:12 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:12:12 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:13:12 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:13:12 PM"}
+{"level":"info","message":"existingUserAccount Test1","timestamp":"5/2/2024, 4:13:12 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/2/2024, 4:13:12 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:13:16 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:13:16 PM"}
+{"level":"error","message":"Test1 already has an account","timestamp":"5/2/2024, 4:13:16 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:14:06 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:14:06 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:20:22 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:20:22 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:21:28 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:21:28 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:25:37 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:25:37 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:25:44 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:25:44 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:28:04 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:28:04 PM"}
+{"level":"info","message":"existingUserAccountDetails Luke","timestamp":"5/2/2024, 4:28:04 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:30:11 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:30:11 PM"}
+{"level":"info","message":"existingUserAccountDetails Luke","timestamp":"5/2/2024, 4:30:11 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:30:25 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:30:25 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:31:26 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:31:26 PM"}
+{"level":"info","message":"existingUserAccountDetails Luke","timestamp":"5/2/2024, 4:31:26 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:35:44 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:35:44 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:37:08 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:37:08 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:39:05 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:39:05 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:47:51 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:47:51 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:48:23 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:48:23 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:48:50 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:48:50 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:48:56 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:48:56 PM"}
+{"level":"info","message":"existingUserAccountDetails Luke","timestamp":"5/2/2024, 4:48:56 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:54:36 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:54:36 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 16:54:41 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 4:54:41 PM"}
+{"level":"info","message":"existingUserAccountDetails Luke","timestamp":"5/2/2024, 4:54:41 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:01:19 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:01:19 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:01:20 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:01:21 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:01:21 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:01:21 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:01:24 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:01:24 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:01:24 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:09:45 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:09:45 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:09:45 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:11:58 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:11:58 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:11:58 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:18:38 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:18:38 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:18:38 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:20:20 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:20:20 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:20:20 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:21:01 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:21:01 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:21:01 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:21:38 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:21:38 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:21:38 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:25:10 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:25:10 PM"}
+{"level":"error","message":"undefined does not have an account, need to register.","timestamp":"5/2/2024, 5:25:10 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:40:29 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:40:29 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:40:29 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:40:29 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:40:34 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:40:34 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:40:55 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:40:55 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:40:55 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:40:55 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:42:09 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:42:09 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:42:09 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:42:09 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:42:10 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:47:39 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:47:39 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:47:58 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:47:58 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:47:58 PM"}
+{"level":"info","message":"Record created with id 23","timestamp":"5/2/2024, 5:47:58 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:51:35 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:51:35 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:51:35 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:51:35 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:51:35 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:56:01 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:56:01 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:56:01 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:56:01 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:56:01 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:59:03 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:59:03 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 17:59:03 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 5:59:03 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 5:59:03 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:02:27 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:02:27 PM"}
+{"level":"error","message":"Test2 already has an account","timestamp":"5/2/2024, 6:02:27 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:03:03 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:03:03 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:03:03 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:03:03 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 6:03:03 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:04:22 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:04:22 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:04:22 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:04:22 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 6:04:22 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:12:19 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:12:19 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:12:19 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:12:19 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 6:12:19 PM"}
+{"level":"info","message":"Record created with id 24","timestamp":"5/2/2024, 6:12:19 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:23 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:23 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:23 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:23 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:25 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:25 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:26 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:26 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:28 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:28 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:28 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:28 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:29 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:29 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:29 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:29 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:29 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:29 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:40 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:40 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:40 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:40 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:24:41 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:24:41 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:11 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:11 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:11 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:11 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:11 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:11 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:12 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:12 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:22 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:22 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:22 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:22 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 6:25:22 PM"}
+{"level":"info","message":"Record created with id 25","timestamp":"5/2/2024, 6:25:22 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:31 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:31 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:31 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:31 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:33 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:33 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:33 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:33 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:34 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:34 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:34 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:34 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:34 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:34 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:25:34 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:25:34 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:26:52 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:26:52 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:26:52 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:26:52 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:26:53 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:26:53 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:26:53 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:26:53 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:26:54 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:26:54 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:26:57 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:26:57 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:27:00 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:27:00 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:27:00 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:27:00 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:30:32 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:30:32 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:30:32 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:30:32 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:30:35 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:30:35 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:31:17 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:31:17 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:31:17 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:31:17 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:32:52 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:32:52 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:32:52 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:32:52 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"5/2/2024, 6:32:52 PM"}
+{"level":"info","message":"Record created with id 26","timestamp":"5/2/2024, 6:32:52 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:33:03 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:33:03 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:33:03 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:33:03 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:33:16 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:33:16 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:33:16 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:33:16 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:34:59 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:34:59 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:34:59 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:34:59 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:36:50 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:36:50 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:36:50 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:36:50 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:36:54 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:36:54 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:37:09 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:37:09 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:37:09 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:37:09 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:38:55 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:38:55 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:38:56 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:38:56 PM"}
+{"level":"error","message":"Test3 does not have an account, need to register.","timestamp":"5/2/2024, 6:38:56 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:39:24 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:39:24 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:39:24 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:39:24 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/2/2024, 6:39:24 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/2/2024, 6:39:24 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:40:11 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:40:11 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:40:11 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:40:11 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:44:33 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:44:33 PM"}
+{"level":"info","message":"A new request received at Thu May 02 2024 18:44:33 GMT-0500 (Central Daylight Time)","timestamp":"5/2/2024, 6:44:33 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:11:59 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:11:59 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:12:00 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:12:00 AM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 11:12:00 AM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 11:12:00 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:13:01 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:13:01 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:13:02 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:13:02 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:15:48 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:15:48 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:15:48 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:15:48 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:17:45 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:17:45 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:17:45 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:17:45 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:22:14 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:22:14 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:22:14 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:22:14 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:23:24 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:23:24 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:23:24 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:23:24 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:39:28 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:39:28 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:39:28 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:39:28 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:41:15 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:41:15 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:41:15 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:41:15 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:47:41 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:47:41 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:47:41 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:47:41 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:49:19 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:49:19 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:49:39 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:49:39 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:50:13 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:50:13 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:50:13 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:50:13 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:51:38 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:51:38 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:51:38 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:51:38 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:54:12 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:54:12 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 11:54:13 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 11:54:13 AM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:00:41 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:00:41 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:02:08 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:02:08 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:13:12 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:13:12 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:16:25 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:16:25 PM"}
+{"level":"info","message":"existingUserAccount Luke","timestamp":"5/3/2024, 12:16:25 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:16:25 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:16:59 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:16:59 PM"}
+{"level":"info","message":"existingUserAccountDetails Luke","timestamp":"5/3/2024, 12:16:59 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:28:43 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:28:43 PM"}
+{"level":"info","message":"existingUserAccount Luke","timestamp":"5/3/2024, 12:28:43 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:28:44 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:28:58 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:28:58 PM"}
+{"level":"info","message":"existingUserAccount Luke","timestamp":"5/3/2024, 12:28:58 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:28:59 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:35:26 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:35:26 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:35:26 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:35:26 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:36:11 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:36:11 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:36:11 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:36:11 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 12:36:11 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:36:11 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:43:08 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:43:08 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:43:08 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:43:08 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 12:43:08 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:43:08 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:44:56 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:44:56 PM"}
+{"level":"error","message":"Test does not have an account, need to register.","timestamp":"5/3/2024, 12:44:56 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:45:03 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:45:03 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 12:45:03 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:45:03 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:45:31 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:45:31 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 12:45:31 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:45:31 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:46:12 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:46:12 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 12:46:12 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:46:13 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:50:52 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:50:52 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:50:52 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:50:52 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 12:50:52 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:50:53 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:54:27 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:54:27 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 12:54:27 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 12:54:27 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 12:54:28 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 12:54:28 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:00:07 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:00:07 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:00:07 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:00:07 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 1:00:07 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 1:00:07 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:03:11 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:03:11 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:03:11 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:03:11 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 1:03:11 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 1:03:11 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:03:26 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:03:26 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:03:26 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:03:26 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 1:03:26 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 1:03:26 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:14:16 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:14:16 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:14:16 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:14:16 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 1:14:16 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 1:14:16 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:17:50 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:17:50 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:17:50 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:17:50 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/3/2024, 1:17:50 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/3/2024, 1:17:50 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:20:24 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:20:24 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:20:24 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:20:24 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:27:32 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:27:32 PM"}
+{"level":"info","message":"existingUserAccountDetails Luke","timestamp":"5/3/2024, 1:27:32 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:27:41 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:27:41 PM"}
+{"level":"info","message":"existingUserAccountDetails Name","timestamp":"5/3/2024, 1:27:41 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:35:56 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:35:56 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:55:16 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:55:16 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:55:58 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:55:58 PM"}
+{"level":"info","message":"Updated data for user","timestamp":"5/3/2024, 1:55:58 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:56:30 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:56:30 PM"}
+{"level":"info","message":"Updated data for user","timestamp":"5/3/2024, 1:56:30 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 13:58:05 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 1:58:05 PM"}
+{"level":"info","message":"Updated data for user","timestamp":"5/3/2024, 1:58:05 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 14:06:09 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 2:06:09 PM"}
+{"level":"info","message":"Updated data for user","timestamp":"5/3/2024, 2:06:09 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 14:06:39 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 2:06:39 PM"}
+{"level":"info","message":"Could not update, no existing info.","timestamp":"5/3/2024, 2:06:39 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 14:07:53 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 2:07:53 PM"}
+{"level":"info","message":"Could not update, no existing info.","timestamp":"5/3/2024, 2:07:53 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 14:08:22 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 2:08:22 PM"}
+{"level":"info","message":"Could not update, no existing info.","timestamp":"5/3/2024, 2:08:22 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 14:08:39 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 2:08:39 PM"}
+{"level":"info","message":"Could not update, no existing info.","timestamp":"5/3/2024, 2:08:39 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 14:08:50 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 2:08:50 PM"}
+{"level":"info","message":"Updated data for user","timestamp":"5/3/2024, 2:08:50 PM"}
+{"level":"info","message":"A new request received at Fri May 03 2024 14:09:15 GMT-0500 (Central Daylight Time)","timestamp":"5/3/2024, 2:09:15 PM"}
+{"level":"info","message":"Could not update, no existing info.","timestamp":"5/3/2024, 2:09:15 PM"}
+{"level":"info","message":"A new request received at Sat May 04 2024 14:40:19 GMT-0500 (Central Daylight Time)","timestamp":"5/4/2024, 2:40:19 PM"}
+{"level":"error","message":"Test2 already has an account","timestamp":"5/4/2024, 2:40:19 PM"}
+{"level":"info","message":"A new request received at Sat May 04 2024 14:40:31 GMT-0500 (Central Daylight Time)","timestamp":"5/4/2024, 2:40:31 PM"}
+{"level":"info","message":"existingUserAccount Test5","timestamp":"5/4/2024, 2:40:31 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"5/4/2024, 2:40:31 PM"}
+{"level":"info","message":"A new request received at Sat May 04 2024 14:40:35 GMT-0500 (Central Daylight Time)","timestamp":"5/4/2024, 2:40:35 PM"}
+{"level":"info","message":"existingUserAccountDetails Name","timestamp":"5/4/2024, 2:40:35 PM"}
+{"level":"info","message":"A new request received at Sat May 04 2024 14:40:40 GMT-0500 (Central Daylight Time)","timestamp":"5/4/2024, 2:40:40 PM"}
+{"level":"info","message":"A new request received at Sat May 04 2024 14:40:46 GMT-0500 (Central Daylight Time)","timestamp":"5/4/2024, 2:40:46 PM"}
+{"level":"info","message":"A new request received at Sat May 04 2024 14:40:55 GMT-0500 (Central Daylight Time)","timestamp":"5/4/2024, 2:40:55 PM"}
+{"level":"info","message":"Could not update, no existing info.","timestamp":"5/4/2024, 2:40:55 PM"}
+{"level":"info","message":"A new request received at Sat May 04 2024 14:41:05 GMT-0500 (Central Daylight Time)","timestamp":"5/4/2024, 2:41:05 PM"}
+{"level":"info","message":"Updated data for user","timestamp":"5/4/2024, 2:41:05 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:07:43 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:07:43 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:07:43 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:07:43 PM"}
+{"level":"error","message":"luke does not have an account, need to register.","timestamp":"3/18/2025, 3:07:43 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:07:54 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:07:54 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:07:54 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:07:54 PM"}
+{"level":"error","message":"luke does not have an account, need to register.","timestamp":"3/18/2025, 3:07:54 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:07:59 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:07:59 PM"}
+{"level":"error","message":"luke does not have an account, need to register.","timestamp":"3/18/2025, 3:07:59 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:08:18 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:08:18 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:08:18 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:08:18 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"3/18/2025, 3:08:18 PM"}
+{"level":"info","message":"Record created with id 27","timestamp":"3/18/2025, 3:08:18 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:08:24 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:08:24 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:08:24 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:08:24 PM"}
+{"level":"error","message":"luke3 does not have an account, need to register.","timestamp":"3/18/2025, 3:08:24 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:08:34 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:08:34 PM"}
+{"level":"info","message":"A new request received at Tue Mar 18 2025 15:08:34 GMT-0500 (Central Daylight Time)","timestamp":"3/18/2025, 3:08:34 PM"}
+{"level":"info","message":"existingUserAccount luke2","timestamp":"3/18/2025, 3:08:34 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"3/18/2025, 3:08:34 PM"}
